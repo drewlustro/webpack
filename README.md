@@ -1,6 +1,6 @@
-# vue-webpack-boilerplate
+# maxrelax / vue-webpack-boilerplate
 
-> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+> A totally chill, full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 ## Version Notice
 

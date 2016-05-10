@@ -3,7 +3,7 @@
     <img class="logo" src="./assets/logo.png">
     <hello></hello>
     <p>
-      Welcome to your Vue.js app!
+      Welcome to your Maxrelax x Vue.js app!
     </p>
     <p style="color:red">
       It seems you are using an outdated version of vue-cli.<br>
