@@ -3,7 +3,7 @@
     <img class="logo" src="./assets/logo.png">
     <hello></hello>
     <p>
-      Welcome to your Vue.js app!
+      Welcome to your Maxrelax x Vue.js app!
     </p>
     <p>
       To get a better understanding of how this boilerplate works, check out
@@ -21,6 +21,7 @@
     </p>
   </div>
 </template>
+
 
 <script>
 import Hello from './components/Hello'{{#if_eq lintConfig "airbnb"}};{{/if_eq}}
